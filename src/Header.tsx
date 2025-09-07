@@ -1,10 +1,10 @@
 // src/Header.tsx
 import React from 'react';
-import { NavLink, useLocation } from 'react-router-dom';
+import { NavLink } from 'react-router-dom';
 import './header.css';
 
 const Header: React.FC = () => {
-  const location = useLocation();
+  // ...existing code...
 
   const navItems = [
     { path: '/', label: 'Dashboard', icon: '🏠' },

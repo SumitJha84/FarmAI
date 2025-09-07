@@ -1,5 +1,5 @@
 // src/App.tsx
-import React from 'react';
+// ...existing code...
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Header from './Header';
 import Homepage from './homepage';

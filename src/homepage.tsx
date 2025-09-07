@@ -1,5 +1,5 @@
 // src/Homepage.tsx
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import './homepage.css';
 
 interface WeatherData {
